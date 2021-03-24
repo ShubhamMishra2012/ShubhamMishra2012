@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhamMishra2012
-- 👀 I’m interested in Automation testing , java 
-- 🌱 I’m currently learning Selenium
+- 👀 I’m interested in Automation testing , java , test automation 
+- 🌱 I’m currently learning advanced test automation
 - 💞️ I’m looking to collaborate on anything in test automation
 - 📫 How to reach me mishrashubhambtech@gmail.com
 
